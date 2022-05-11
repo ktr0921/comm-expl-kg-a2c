@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 
+dump*.rdb
+slurm-*.out
+etc/stanford-corenlp-full-2018-10-05
+etc/cache
+etc/pre-train*
+etc/cskg/
+outputs/*
+results
+bin
+.DS_Store
+.idea/
+
+
