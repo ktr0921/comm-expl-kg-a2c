@@ -15,7 +15,8 @@ Code for ACL2022 paper [Fire Burns, Sword Cuts: Commonsense Inductive Bias for E
 
 ## Set-up
 
-- We follow the set-up from [rajammanabrolu/KG-A2C](https://github.com/rajammanabrolu/KG-A2C), and put all the non-python files in ``etc`` directory.
+- We follow the set-up from [rajammanabrolu/KG-A2C](https://github.com/rajammanabrolu/KG-A2C), and put all the non-python files in ``etc/`` directory.
+- Download COMET-BART from [allenai/comet-atomic-2020](https://github.com/allenai/comet-atomic-2020) and put it in ``etc/pre-trained-models/``
 
 - Run the code
 ```python
